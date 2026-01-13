@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Tran Ba Binh 👋</h1>
 <h3 align="center">Software Engineer | .NET Specialist</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=[TranBaBinh]&label=Profile%20Views&color=0e75b6&style=flat" alt="views" /> 
-</p>
 
 <br/>
 
